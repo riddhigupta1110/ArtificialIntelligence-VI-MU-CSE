@@ -30,18 +30,17 @@ cd ArtificialIntelligence-VI-MU-CSE
 You can run each Python program using any code editor or the command line:
 
 Using Visual Studio Code:
-    1. Open Visual Studio Code.
-    2. Open the project folder (ArtificialIntelligence-VI-MU-CSE) in VS Code.
-    3. Open the desired .py file.\n
-    4. Run the program by pressing F5 or by clicking the "Run" button in the top-right corner of the editor.\n
+1. Open Visual Studio Code.
+2. Open the project folder (ArtificialIntelligence-VI-MU-CSE) in VS Code.
+3. Open the desired .py file.\n
+4. Run the program by pressing F5 or by clicking the "Run" button in the top-right corner of the editor.
 
 ### **II) Prolog Program:**
 Study material - 
 - [Prolog Programming Basics](https://youtu.be/4F2FLNQ6yms?si=EqIMIEhbktIR1t48)
 - [Reference Video](https://youtu.be/-v1K9AnkAeM?si=krWWyNBsVKg9oHjn)
 
-Writing a program and executing it:
-1. To write go to any text editor(notepad++ or notepad) write the program and save it with **.pl** extension in the folder of your
-choice.
-
- 
+Writing and Executing a Prolog Program
+1. Write your Prolog program using any text editor (e.g., Notepad++ or Notepad) and save it with a **.pl** extension in the folder of your choice.
+2. In SWI-Prolog, load your program by clicking on File -> Consult and then opening the desired file.
+3. Once the program is loaded, you can start using it by entering queries in the SWI-Prolog console.
