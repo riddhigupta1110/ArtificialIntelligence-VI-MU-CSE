@@ -36,11 +36,11 @@ Using Visual Studio Code:
 4. Run the program by pressing F5 or by clicking the "Run" button in the top-right corner of the editor.
 
 ### **II) Prolog Program:**
-Study material - 
+Study material:
 - [Prolog Programming Basics](https://youtu.be/4F2FLNQ6yms?si=EqIMIEhbktIR1t48)
 - [Reference Video](https://youtu.be/-v1K9AnkAeM?si=krWWyNBsVKg9oHjn)
 
-Writing and Executing a Prolog Program
+Writing and Executing a Prolog Program:
 1. Write your Prolog program using any text editor (e.g., Notepad++ or Notepad) and save it with a **.pl** extension in the folder of your choice.
 2. In SWI-Prolog, load your program by clicking on File -> Consult and then opening the desired file.
 3. Once the program is loaded, you can start using it by entering queries in the SWI-Prolog console.
