@@ -32,7 +32,7 @@ You can run each Python program using any code editor or the command line:
 Using Visual Studio Code:
 1. Open Visual Studio Code.
 2. Open the project folder (ArtificialIntelligence-VI-MU-CSE) in VS Code.
-3. Open the desired .py file.\n
+3. Open the desired .py file.
 4. Run the program by pressing F5 or by clicking the "Run" button in the top-right corner of the editor.
 
 ### **II) Prolog Program:**
